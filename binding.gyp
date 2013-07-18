@@ -8,6 +8,8 @@
 					'../deps/peg-multimarkdown/markdown_lib.o',
 					'../deps/peg-multimarkdown/markdown_parser.o',
 					'../deps/peg-multimarkdown/markdown_output.o',
+                    '../deps/peg-multimarkdown/parsing_functions.o',
+                    '../deps/peg-multimarkdown/utility_functions.o',
 					'../deps/peg-multimarkdown/GLibFacade.o'
 				]
 			}
